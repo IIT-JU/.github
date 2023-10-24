@@ -1,6 +1,6 @@
 # **IIT, JU**
 
-![Frame.png](./assets/hero.png)
+![University Name & Logo](https://raw.githubusercontent.com/IIT-JU/.github/main/profile/assets/banner.png)
 
 ## **Vision**
 
